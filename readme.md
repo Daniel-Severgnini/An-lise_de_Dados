@@ -14,11 +14,11 @@ analise.py → Executa todo o processo automaticamente.
 
 ## 1ª Forma: Executando pelo Terminal
 
-Extrair os dados
-python extracao.py
+ Extrair os dados
+- python extracao.py
 
 Gerar o gráfico
-python visualizacao.py grafico-cdi
+- python visualizacao.py grafico-cdi
 
 ## 2ª Forma: Script Automatizado
 
